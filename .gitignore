@@ -6,3 +6,5 @@ python_fundamentals/exception_handling/safe_print_list_test.py
 python_fundamentals/exception_handling/safe_print_list_notes.py
 python_fundamentals/exception_handling/safe_print_list_test_notes.py
 python_fundamentals/exception_handling/__pycache__/safe_print_list.cpython-312.pyc
+python_fundamentals/exception_handling/safe_print_list_integers_test.py
+python_fundamentals/exception_handling/__pycache__/safe_print_list_integers.cpython-312.pyc
