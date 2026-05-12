@@ -2,3 +2,7 @@ python_fundamentals/control_flow/add_0.py
 python_fundamentals/functions_modules/add_0.py
 python_fundamentals/functions_modules/calculator_1.py
 python_fundamentals/functions_modules/__pycache__/calculator_1.cpython-312.pyc
+python_fundamentals/exception_handling/safe_print_list_test.py
+python_fundamentals/exception_handling/safe_print_list_notes.py
+python_fundamentals/exception_handling/safe_print_list_test_notes.py
+python_fundamentals/exception_handling/__pycache__/safe_print_list.cpython-312.pyc
