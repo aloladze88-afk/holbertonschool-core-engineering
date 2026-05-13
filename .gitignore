@@ -12,3 +12,5 @@ python_fundamentals/exception_handling/__pycache__/safe_print_division.cpython-3
 python_fundamentals/exception_handling/safe_print_division_test.py
 python_fundamentals/exception_handling/__pycache__/raise_exception.cpython-312.pyc
 python_fundamentals/exception_handling/raise_exception_test.py
+python_opp/classes_and_object_model/0-square_test.py
+python_opp/classes_and_object_model/__pycache__/0-square.cpython-312.pyc
