@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""Defines a Square class with size validation and area method."""
+
 
 class Square:
     """Represents a square with validated size and area calculation."""
