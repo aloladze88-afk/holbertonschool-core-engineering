@@ -16,3 +16,7 @@ python_opp/classes_and_object_model/0-square_test.py
 python_opp/classes_and_object_model/__pycache__/0-square.cpython-312.pyc
 python_oop/classes_and_object_model/0-square_test.py
 python_oop/classes_and_object_model/__pycache__/0-square.cpython-312.pyc
+python_oop/inheritance/base_geometry_test.py
+python_oop/inheritance/__pycache__/base_geometry.cpython-312.pyc
+.gitignore
+.gitignore
