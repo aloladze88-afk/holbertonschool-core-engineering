@@ -23,8 +23,8 @@ class Circle(Shape):
     """Represents a circle."""
 
     def __init__(self, radius):
-        """Store the circle radius."""
-        self.radius = radius
+        """Store the circle radius as a positive distance."""
+        self.radius = abs(radius)
 
     def area(self):
         """Return the circle area."""
