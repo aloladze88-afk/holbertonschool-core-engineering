@@ -3,20 +3,16 @@
 
 
 class BaseGeometry:
-    """Foundation class that defines the shared interface for all shapes."""
+    """Foundation class for all geometric shapes."""
 
     def area(self):
-        """Raise an exception — concrete shapes must implement their own area()."""
+        """Not implemented; subclasses must override this."""
         raise Exception("area() is not implemented")
 
     def integer_validator(self, name, value):
-        """Validate that value is a strictly positive integer.
-
-        Args:
-            name  -- the parameter name, used verbatim in error messages
-            value -- the value to validate
-        """
+        """Validate that value is a positive integer."""
         if type(value) is not int:
             raise TypeError("{} must be an integer".format(name))
         if value <= 0:
             raise ValueError("{} must be greater than 0".format(name))
+        
